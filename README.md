@@ -23,6 +23,8 @@ The raytracer provides a deep understanding of how 3D scenes are constructed and
 
 ## Final Project – Unity VR Experience: "The Fear Maze"
 
+For understanding the project easier, you might check the screenshots section.
+
 ### Concept
 
 The final project is an interactive 3D VR-like experience developed in Unity, where the main theme revolves around **facing personal fears**. The player must navigate through a symbolic maze and complete challenges that metaphorically represent different fears.
