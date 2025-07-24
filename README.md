@@ -4,8 +4,6 @@
 
 This repository contains both the laboratory exercises and the final project developed for the Virtual Reality course at UBB. The course combined theoretical and practical aspects of 3D geometry, graphics rendering, and immersive game design using Unity. The focus was on implementing a custom ray tracer and creating a thematic interactive environment based on a personal psychological theme.
 
----
-
 ## Laboratory Work – Custom Raytracer
 
 The lab section includes a complete ray tracing engine built from scratch in C#, covering:
@@ -23,7 +21,7 @@ The raytracer provides a deep understanding of how 3D scenes are constructed and
 
 ## Final Project – Unity VR Experience: "The Fear Maze"
 
-For understanding the project easier, you might check the screenshots section.
+For understanding the project easier, you might check the [screenshots section](https://github.com/dllrazvi/Virtual-Reality/tree/main/Final%20project%20-%20The%20City/Screenshots).
 
 ### Concept
 
